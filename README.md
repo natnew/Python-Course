@@ -17,4 +17,8 @@ Once you have completed the step above, I will send you a certificate of complet
 
 *Note: If you do not see a particular project in the repository, it may be in the process of being updated. Please be patient, and you will see it soon. 
 
+[![HitCount](http://hits.dwyl.com/natnew/natnew.svg)](http://hits.dwyl.com/natnew/natnew) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Famrrs)
+<!--
+**natnew/natnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
