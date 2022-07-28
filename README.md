@@ -21,7 +21,7 @@ Once you have completed the step above, I will send you a certificate of complet
 [Python Comments](https://github.com/natnew/Python-Course)<br>
 [Python Variables](https://github.com/natnew/Python-Course)<br>
 [Python Data Types](https://github.com/natnew/Python-Course)<br>
-[python Numbers](https://github.com/natnew/Python-Course)<br>
+[Python Numbers](https://github.com/natnew/Python-Course)<br>
 [Python Casting](https://github.com/natnew/Python-Course)<br>
 [Python Strings](https://github.com/natnew/Python-Course)<br>
 [Python Booleans](https://github.com/natnew/Python-Course)<br>
