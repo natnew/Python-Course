@@ -49,6 +49,7 @@ Once you have completed the step above, I will send you a certificate of complet
 [Python User Input](https://github.com/natnew/Python-Course)<br>
 [Python String Formatting](https://github.com/natnew/Python-Course)<br>
 
+
 *Note: If you do not see a particular project in the repository, it may be in the process of being updated. Please be patient, and you will see it soon. 
 
 [![HitCount](http://hits.dwyl.com/natnew/natnew/Python-Course.md.svg)](http://hits.dwyl.com/natnew/natnew/Python-Course/edit/main/README.md) 
