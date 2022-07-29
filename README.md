@@ -13,8 +13,8 @@ Once you have completed the step above, I will send you a certificate of complet
 
 [Projects - 200 Python projects](https://github.com/natnew/200-Projects-For-Beginners-Using-Python-Series)<br>
 [Projects - 100 Python projects](https://github.com/natnew/100-Python-Projects)<br>
-[Resources - Python Crash course](https://github.com/natnew/Python-Crash-Course-For-Beginners)
-[Articles](https://medium.com/@natashanewbold)
+[Resources - Python Crash course](https://github.com/natnew/Python-Crash-Course-For-Beginners)<br>
+[Articles](https://medium.com/@natashanewbold)<br>
 
 ## Python Tutorials 
 [Getting Started With Python](https://github.com/natnew/Python-Course)<br>
