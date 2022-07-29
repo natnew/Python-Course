@@ -16,6 +16,9 @@ Once you have completed the step above, I will send you a certificate of complet
 [Resources - Python Crash course](https://github.com/natnew/Python-Crash-Course-For-Beginners)<br>
 [Articles](https://medium.com/@natashanewbold)<br>
 
+
+Get a **solid python foundation**, and accelerate your learning with these tutorials. <br>
+
 ## Python Tutorials 
 [Getting Started With Python](https://github.com/natnew/Python-Course)<br>
 [Python Syntax](https://github.com/natnew/Python-Course)<br>
